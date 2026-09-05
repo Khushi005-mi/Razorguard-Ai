@@ -6,3 +6,4 @@ seaborn
 jupyter
 fastapi==0.121.3
 uvicorn==0.38.0
+psycopg2-binary==2.9.11
